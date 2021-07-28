@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/MastersIndiaProject/static/css/main.b55cf263.chunk.css",
+    "main.js": "/MastersIndiaProject/static/js/main.8e48b907.chunk.js",
+    "main.js.map": "/MastersIndiaProject/static/js/main.8e48b907.chunk.js.map",
+    "runtime-main.js": "/MastersIndiaProject/static/js/runtime-main.6d53ed23.js",
+    "runtime-main.js.map": "/MastersIndiaProject/static/js/runtime-main.6d53ed23.js.map",
+    "static/js/2.ac598b4f.chunk.js": "/MastersIndiaProject/static/js/2.ac598b4f.chunk.js",
+    "static/js/2.ac598b4f.chunk.js.map": "/MastersIndiaProject/static/js/2.ac598b4f.chunk.js.map",
+    "static/js/3.6dbfcbf8.chunk.js": "/MastersIndiaProject/static/js/3.6dbfcbf8.chunk.js",
+    "static/js/3.6dbfcbf8.chunk.js.map": "/MastersIndiaProject/static/js/3.6dbfcbf8.chunk.js.map",
+    "index.html": "/MastersIndiaProject/index.html",
+    "static/css/main.b55cf263.chunk.css.map": "/MastersIndiaProject/static/css/main.b55cf263.chunk.css.map",
+    "static/js/2.ac598b4f.chunk.js.LICENSE.txt": "/MastersIndiaProject/static/js/2.ac598b4f.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6d53ed23.js",
+    "static/js/2.ac598b4f.chunk.js",
+    "static/css/main.b55cf263.chunk.css",
+    "static/js/main.8e48b907.chunk.js"
+  ]
+}
